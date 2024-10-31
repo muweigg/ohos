@@ -1,0 +1,1 @@
+import{a as t}from"./chunk-3475ULFG.js";import{a as c}from"./chunk-RAAYCPUM.js";function D(...e){return c(s,e)}function s(e,o){let r={...e,...o};for(let n in o){if(!(n in e))continue;let{[n]:i}=e;if(!t(i))continue;let{[n]:u}=o;t(u)&&(r[n]=s(i,u))}return r}export{D as a};

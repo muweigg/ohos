@@ -1,0 +1,1 @@
+import{a as r}from"./chunk-RUHQUI2Z.js";import{a as t}from"./chunk-RAAYCPUM.js";function m(...n){return t(i,n)}function i(n){if(n.length===0)return;let e=r(n);return typeof e=="bigint"?e/BigInt(n.length):e/n.length}export{m as a};

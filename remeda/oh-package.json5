@@ -1,0 +1,15 @@
+{
+  "name": "@mui/remeda",
+  "version": "2.16.0",
+  "description": "The first \"data-first\" and \"data-last\" utility library designed especially for TypeScript.",
+  "main": "src/main/index.js",
+  "types": "src/main/index.d.ts",
+  "type": "module",
+  "author": "Mui",
+  "homepage": "https://remedajs.com/",
+  "repository": "https://github.com/remeda/remeda",
+  "license": "MIT",
+  "keywords": ["tools"],
+  "tags": ["tools"],
+  "dependencies": {}
+}
